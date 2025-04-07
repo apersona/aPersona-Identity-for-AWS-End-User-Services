@@ -1,4 +1,4 @@
-"use strict";var r=Object.defineProperty;var s=Object.getOwnPropertyDescriptor;var d=Object.getOwnPropertyNames;var l=Object.prototype.hasOwnProperty;var m=(o,e)=>{for(var t in e)r(o,t,{get:e[t],enumerable:!0})},n=(o,e,t,a)=>{if(e&&typeof e=="object"||typeof e=="function")for(let i of d(e))!l.call(o,i)&&i!==t&&r(o,i,{get:()=>e[i],enumerable:!(a=s(e,i))||a.enumerable});return o};var h=o=>n(r({},"__esModule",{value:!0}),o);var c={};m(c,{default:()=>y});module.exports=h(c);var p=(o,e,t,a)=>`
+var r=Object.defineProperty;var s=Object.getOwnPropertyDescriptor;var d=Object.getOwnPropertyNames;var l=Object.prototype.hasOwnProperty;var m=(o,e)=>{for(var t in e)r(o,t,{get:e[t],enumerable:!0})},n=(o,e,t,a)=>{if(e&&typeof e=="object"||typeof e=="function")for(let i of d(e))!l.call(o,i)&&i!==t&&r(o,i,{get:()=>e[i],enumerable:!(a=s(e,i))||a.enumerable});return o};var h=o=>n(r({},"__esModule",{value:!0}),o);var c={};m(c,{default:()=>y});module.exports=h(c);var p=(o,e,t,a)=>`
 		<!DOCTYPE html >
 			<html>
 				<head>

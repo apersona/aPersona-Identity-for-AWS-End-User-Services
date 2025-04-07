@@ -1,4 +1,4 @@
-"use strict";var i=Object.defineProperty;var r=Object.getOwnPropertyDescriptor;var d=Object.getOwnPropertyNames;var l=Object.prototype.hasOwnProperty;var p=(e,t)=>{for(var o in t)i(e,o,{get:t[o],enumerable:!0})},c=(e,t,o,n)=>{if(t&&typeof t=="object"||typeof t=="function")for(let a of d(t))!l.call(e,a)&&a!==o&&i(e,a,{get:()=>t[a],enumerable:!(n=r(t,a))||n.enumerable});return e};var m=e=>c(i({},"__esModule",{value:!0}),e);var f={};p(f,{templateInvite:()=>y,templateReset:()=>h});module.exports=m(f);var s=e=>`  <html>
+var i=Object.defineProperty;var r=Object.getOwnPropertyDescriptor;var d=Object.getOwnPropertyNames;var l=Object.prototype.hasOwnProperty;var p=(e,t)=>{for(var o in t)i(e,o,{get:t[o],enumerable:!0})},c=(e,t,o,n)=>{if(t&&typeof t=="object"||typeof t=="function")for(let a of d(t))!l.call(e,a)&&a!==o&&i(e,a,{get:()=>t[a],enumerable:!(n=r(t,a))||n.enumerable});return e};var m=e=>c(i({},"__esModule",{value:!0}),e);var f={};p(f,{templateInvite:()=>y,templateReset:()=>h});module.exports=m(f);var s=e=>`  <html>
   <head>
   <meta charset="utf-8">
   <style>
